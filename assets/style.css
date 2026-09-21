@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+* { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+h1, h2, h3, h4, h5 { letter-spacing: -0.02em; }
+.card { border-radius: 12px; }
+.nav-tabs .nav-link { font-weight: 500; color: #495057; }
+.nav-tabs .nav-link.active { color: #212529; border-bottom: 2px solid #0d6efd; }
+.bg-light { background-color: #f8f9fa !important; }
+.dash-table-container .dash-spreadsheet-container { font-family: 'Inter', system-ui, sans-serif; }
